@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e12f9620.css",
+    "main.js": "/static/js/main.d3888b61.js",
+    "static/media/backgroud-section1.jpg": "/static/media/backgroud-section1.2c97c14068f5cf4e45d2.jpg",
+    "static/media/fundador.jpg": "/static/media/fundador.00e35c675a5fa16a8496.jpg",
+    "static/media/background-chef-words.jpg": "/static/media/background-chef-words.54cda4e94a40655eb20e.jpg",
+    "static/media/burger1.jpg": "/static/media/burger1.4264d22f3e1a709cb525.jpg",
+    "static/media/burger2.jpg": "/static/media/burger2.1aa80b0177e786ab2a97.jpg",
+    "static/media/coFounder1.jpg": "/static/media/coFounder1.f233c42533ecb2eb4d49.jpg",
+    "static/media/coFounder2.jpg": "/static/media/coFounder2.0249d92dc7a207d20278.jpg",
+    "index.html": "/index.html",
+    "main.e12f9620.css.map": "/static/css/main.e12f9620.css.map",
+    "main.d3888b61.js.map": "/static/js/main.d3888b61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e12f9620.css",
+    "static/js/main.d3888b61.js"
+  ]
+}
